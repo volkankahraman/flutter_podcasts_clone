@@ -6,11 +6,17 @@
 
 [<img src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup.png" alt="Flutter logo" style="max-width:80%;">](https://flutter.dev/)
 
-Google Podcast uygulaması flutter ve dart kullanarak yeniden yazılmıştır. Örnek bir podcast dosyası haricinde 
+Google Podcast uygulaması flutter ve dart kullanarak yeniden yazılmıştır. Örnek bir podcast dosyası çalmak haricinde işlevselliği yoktur. Sadece tasarım yeniden yapılmıştır. Modüler yapıda kodlanmıştır. İleride geliştirmeler yapılabilir.
+
+Android için [Uygulamayı İndir](app.apk)
 
 This project is clone of a Google Podcast app using Flutter and Dart.
 
+[Download App](app.apk) for Android
 <!-- Place this tag where you want the button to render. -->
+### Video
+[<img src="ss/flutter-podcast.gif">](https://youtu.be/j7fzSFIojXY)
+
 ### ScreenShots
 <p align="center">
 <img src="ss/1.png" width="400"/>
