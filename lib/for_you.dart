@@ -20,6 +20,7 @@ class _ForYouPanelState extends State<ForYouPanel>
     return Padding(
       padding: const EdgeInsets.symmetric(vertical: 20.0, horizontal: 8.0),
       child: Card(
+        elevation: 0,
         shape: RoundedRectangleBorder(
           side: BorderSide(color: Colors.grey, width: 0.5),
           borderRadius: BorderRadius.circular(8),
@@ -159,6 +160,7 @@ class _ForYouPanelState extends State<ForYouPanel>
                     ),
                   ),
                   Card(
+                    elevation: 0,
                     child: Padding(
                       padding: const EdgeInsets.all(8.0),
                       child: Text(
@@ -168,6 +170,7 @@ class _ForYouPanelState extends State<ForYouPanel>
                     ),
                   ),
                   Card(
+                    elevation: 0,
                     child: Padding(
                       padding: const EdgeInsets.all(8.0),
                       child: Text(
@@ -177,6 +180,7 @@ class _ForYouPanelState extends State<ForYouPanel>
                     ),
                   ),
                   Card(
+                    elevation: 0,
                     child: Padding(
                       padding: const EdgeInsets.all(8.0),
                       child: Text(

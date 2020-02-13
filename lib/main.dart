@@ -61,7 +61,7 @@ class _MyAppState extends State<MyApp> {
       theme: ThemeData(
         backgroundColor: Colors.white,
         primarySwatch: Colors.blue,
-        primaryColor: Colors.grey,
+        primaryColor: Colors.white,
       ),
       home: WillPopScope(
         onWillPop: () async {

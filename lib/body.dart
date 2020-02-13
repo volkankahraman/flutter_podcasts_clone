@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_podcast/for_you.dart';
+import 'package:flutter_podcast/listings.dart';
 
 class Body extends StatefulWidget {
   final List<String> channels;
@@ -13,6 +14,7 @@ class _BodyState extends State<Body> {
   @override
   Widget build(BuildContext context) {
     return Container(
+      color: Colors.white,
       child: ListView(
         children: <Widget>[
           Container(
@@ -35,6 +37,7 @@ class _BodyState extends State<Body> {
             ),
           ),
           ForYouPanel(),
+          Listings(),
         ],
       ),
     );
