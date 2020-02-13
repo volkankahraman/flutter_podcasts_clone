@@ -22,6 +22,7 @@ List<String> channels = [
   'oyungundemi.jpg',
   'mesutcevik.jpg',
   'gelecekbilimde.jpg',
+  'studio71.jpg'
 ];
 
 class MyApp extends StatefulWidget {
@@ -118,7 +119,9 @@ class _MyAppState extends State<MyApp> {
                     height: 35.0,
                   ),
                 ),
-          body: _searchbar ? Center() : Body(channels: channels),
+          body: _searchbar
+              ? Container(color: Colors.white)
+              : Body(channels: channels),
           bottomNavigationBar: BottomBar(),
         ),
       ),
