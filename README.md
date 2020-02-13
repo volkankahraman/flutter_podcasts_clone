@@ -1,6 +1,29 @@
-# flutter_podcast
+# Flutter Google Podcast Clone
 
-A new Flutter project.
+![Generic badge](https://img.shields.io/badge/Flutter-1.14.7_pre.84-blue.svg)
+![Generic badge](https://img.shields.io/badge/Flutter-web-blue.svg)
+[![GitHub stars](https://img.shields.io/github/stars/volkankahraman/flutter_podcasts_clone?style=social)](https://GitHub.com/volkankahraman/world_time_flutter/)
+
+[<img src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup.png" alt="Flutter logo" style="max-width:80%;">](https://flutter.dev/)
+
+Google Podcast uygulaması flutter ve dart kullanarak yeniden yazılmıştır. Örnek bir podcast dosyası haricinde 
+
+This project is clone of a Google Podcast app using Flutter and Dart.
+
+<!-- Place this tag where you want the button to render. -->
+### ScreenShots
+<p align="center">
+<img src="ss/1.png" width="400"/>
+<img src="ss/2.png" width="400"/>
+</P>
+<p align="center">
+<img src="ss/3.png" width="400"/>
+<img src="ss/4.png" width="400"/>
+</p>
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
 
 ## Getting Started
 
